@@ -6,3 +6,9 @@ This repository contains a collection of **mini projects** built using **HTML, C
 
 Each project has its own folder containing the necessary HTML, CSS, and JavaScript files:
 
+## 🚀 Projects Included
+
+Here are some of the mini projects included in this repository:
+
+1. **Todo App** – A simple todo list to add, delete, and mark tasks as completed. You can check my live [Todo App here](https://codepen.io/FahaminaYesmin/pen/ExpvZqL).
+.
