@@ -11,4 +11,7 @@ Each project has its own folder containing the necessary HTML, CSS, and JavaScri
 Here are some of the mini projects included in this repository:
 
 1. **Todo App** – A simple todo list to add, delete, and mark tasks as completed. You can check live [Todo App here](https://codepen.io/FahaminaYesmin/pen/ExpvZqL).
+2. **Digital Clock** – A clean and responsive digital clock that displays time in real-time using JavaScript.  
+   👉 Live Demo: [Digital Clock](https://codepen.io/FahaminaYesmin/pen/gbroywY)
+
 .
